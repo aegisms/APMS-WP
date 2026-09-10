@@ -6,5 +6,5 @@ import { defineConfig } from 'vite'
 // e.g. base: "/activity-points-management-system/"
 export default defineConfig({
   plugins: [react()],
-  base: "/activity-points-management-system/",
+  base: "/APMS-WP/",
 })
