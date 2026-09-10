@@ -10,10 +10,9 @@ kept in the browser's `localStorage`, layered on top of the JSON seed data.
 
 ## Live demo
 
-- GitHub Pages: `https://<your-github-username>.github.io/activity-points-management-system/`
-- Repository: `https://github.com/<your-github-username>/activity-points-management-system`
+- GitHub Pages: `https://aegisms.github.io/activity-points-management-system/`
+- Repository: `https://github.com/aegisms/APMS-WP`
 
-*(Replace the placeholders above with your actual URLs after deploying.)*
 
 ## Features
 
