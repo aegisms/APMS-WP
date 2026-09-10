@@ -1,0 +1,44 @@
+[
+  {
+    "id": "technical",
+    "name": "Technical / Professional",
+    "description": "Workshops, hackathons, certifications, paper presentations, internships and technical competitions.",
+    "color": "#1B2A4A",
+    "maxPoints": 40
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "Inter-college, state or national level sports participation and achievements.",
+    "color": "#4C6B57",
+    "maxPoints": 30
+  },
+  {
+    "id": "cultural",
+    "name": "Cultural Activities",
+    "description": "Music, dance, drama, fine arts and other cultural competitions or performances.",
+    "color": "#B8892B",
+    "maxPoints": 25
+  },
+  {
+    "id": "social",
+    "name": "Social Service",
+    "description": "NSS, NCC, blood donation camps, community outreach and volunteering.",
+    "color": "#A4453B",
+    "maxPoints": 25
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "description": "Start-up initiatives, business plan competitions, incubation and innovation challenges.",
+    "color": "#6B4C9A",
+    "maxPoints": 20
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership",
+    "description": "Club coordination, student council roles, event organisation and mentoring.",
+    "color": "#2B7A8B",
+    "maxPoints": 20
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "A1001",
+    "studentUid": "CS21B045",
+    "title": "Smart India Hackathon 2025",
+    "category": "technical",
+    "date": "2025-08-14",
+    "description": "Represented the college in the national-level hackathon, built a prototype for rural healthcare access.",
+    "pointsClaimed": 15,
+    "pointsApproved": 15,
+    "status": "Approved"
+  },
+  {
+    "id": "A1002",
+    "studentUid": "CS21B045",
+    "title": "AWS Cloud Practitioner Certification",
+    "category": "technical",
+    "date": "2025-05-02",
+    "description": "Completed and cleared the AWS Certified Cloud Practitioner examination.",
+    "pointsClaimed": 10,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": "A1003",
+    "studentUid": "CS21B045",
+    "title": "Inter-Department Badminton Tournament",
+    "category": "sports",
+    "date": "2025-03-20",
+    "description": "Won the doubles event representing the CSE department.",
+    "pointsClaimed": 8,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": "A1004",
+    "studentUid": "CS21B045",
+    "title": "Annual Cultural Fest - Stage Play",
+    "category": "cultural",
+    "date": "2025-02-10",
+    "description": "Lead role in the Hindi drama performed at the annual cultural fest.",
+    "pointsClaimed": 6,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": "A1005",
+    "studentUid": "CS21B045",
+    "title": "Blood Donation Camp Volunteer",
+    "category": "social",
+    "date": "2025-01-18",
+    "description": "Coordinated volunteer registrations for the NSS blood donation drive.",
+    "pointsClaimed": 5,
+    "pointsApproved": 5,
+    "status": "Approved"
+  },
+  {
+    "id": "A1006",
+    "studentUid": "CS21B045",
+    "title": "Campus Startup Pitch Challenge",
+    "category": "entrepreneurship",
+    "date": "2024-11-25",
+    "description": "Pitched a campus food-delivery concept, reached the finals.",
+    "pointsClaimed": 10,
+    "pointsApproved": 0,
+    "status": "Rejected"
+  },
+  {
+    "id": "A1007",
+    "studentUid": "CS21B045",
+    "title": "Coding Club Coordinator",
+    "category": "leadership",
+    "date": "2024-09-05",
+    "description": "Organised weekly coding sessions and two department-level contests as club coordinator.",
+    "pointsClaimed": 8,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": "A2001",
+    "studentUid": "EC20B012",
+    "title": "IEEE Paper Presentation",
+    "category": "technical",
+    "date": "2025-07-11",
+    "description": "Presented a research paper on low-power IoT sensors at an IEEE student conference.",
+    "pointsClaimed": 12,
+    "pointsApproved": 12,
+    "status": "Approved"
+  },
+  {
+    "id": "A2002",
+    "studentUid": "EC20B012",
+    "title": "Inter-College Football Tournament",
+    "category": "sports",
+    "date": "2025-04-06",
+    "description": "Played as a mid-fielder, team reached the semi-finals.",
+    "pointsClaimed": 8,
+    "pointsApproved": 6,
+    "status": "Approved"
+  },
+  {
+    "id": "A2003",
+    "studentUid": "EC20B012",
+    "title": "NCC Republic Day Camp",
+    "category": "social",
+    "date": "2025-01-20",
+    "description": "Participated in the state-level NCC Republic Day camp.",
+    "pointsClaimed": 12,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": "A2004",
+    "studentUid": "EC20B012",
+    "title": "Student Council General Secretary",
+    "category": "leadership",
+    "date": "2024-08-01",
+    "description": "Elected as General Secretary, managed student council events for the academic year.",
+    "pointsClaimed": 15,
+    "pointsApproved": 15,
+    "status": "Approved"
+  },
+  {
+    "id": "A3001",
+    "studentUid": "ME22B078",
+    "title": "SAE BAJA Design Workshop",
+    "category": "technical",
+    "date": "2025-06-15",
+    "description": "Attended a 3-day workshop on vehicle chassis design as part of the SAE BAJA team.",
+    "pointsClaimed": 8,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": "A3002",
+    "studentUid": "ME22B078",
+    "title": "Classical Dance Competition",
+    "category": "cultural",
+    "date": "2025-03-02",
+    "description": "Secured second place in the solo Bharatanatyam competition at the state youth festival.",
+    "pointsClaimed": 7,
+    "pointsApproved": 7,
+    "status": "Approved"
+  },
+  {
+    "id": "A3003",
+    "studentUid": "ME22B078",
+    "title": "Village Infrastructure Volunteering",
+    "category": "social",
+    "date": "2025-02-14",
+    "description": "Volunteered for a week-long NSS rural infrastructure improvement camp.",
+    "pointsClaimed": 10,
+    "pointsApproved": 0,
+    "status": "Pending"
+  }
+]

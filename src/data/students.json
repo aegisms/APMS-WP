@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "CS21B045",
+    "password": "pass123",
+    "name": "Aditi Nair",
+    "department": "Computer Science & Engineering",
+    "semester": 6,
+    "batch": "2021 - 2025",
+    "email": "aditi.nair@example.edu",
+    "phone": "+91 98765 43210",
+    "advisor": "Dr. Meera Pillai",
+    "targetPoints": 100
+  },
+  {
+    "uid": "EC20B012",
+    "password": "pass456",
+    "name": "Rohan Verma",
+    "department": "Electronics & Communication",
+    "semester": 8,
+    "batch": "2020 - 2024",
+    "email": "rohan.verma@example.edu",
+    "phone": "+91 91234 56780",
+    "advisor": "Dr. Sunil Rao",
+    "targetPoints": 100
+  },
+  {
+    "uid": "ME22B078",
+    "password": "pass789",
+    "name": "Sneha Kulkarni",
+    "department": "Mechanical Engineering",
+    "semester": 4,
+    "batch": "2022 - 2026",
+    "email": "sneha.kulkarni@example.edu",
+    "phone": "+91 99887 76655",
+    "advisor": "Dr. Anil Deshpande",
+    "targetPoints": 100
+  }
+]
