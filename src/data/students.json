@@ -1,4 +1,4 @@
-
+[
   {
     "uid": "CS21B045",
     "password": "pass123",
@@ -10,5 +10,5 @@
     "phone": "+91 98765 43210",
     "advisor": "Dr.Chinchu Krishna",
     "targetPoints": 100
-  }
+  }]
 
